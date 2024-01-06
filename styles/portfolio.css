@@ -134,3 +134,18 @@ main{
 .about-info{
     text-align: center;
 }
+
+main > section > div h4{
+    font-weight: normal;
+}
+
+main > section > div p{
+    font-weight: bold;
+}
+
+#what-i-do-descrition{
+    padding: 30px 150px;
+}
+.skill-description{
+    font-weight: normal;
+}
